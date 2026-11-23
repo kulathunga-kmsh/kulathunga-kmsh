@@ -40,11 +40,6 @@ Electronic & Telecommunication Engineering Undergraduate
 </p>
 
 ### ⚡ Hardware & Electronics
-
-<p>
-  <img src="https://skillicons.dev/icons?i=altium"/>
-</p>
-
 - PCB Design – Altium Designer
 - 3D Mechanical Design – SolidWorks
 
